@@ -1,16 +1,15 @@
-# internet_speed_checker
+# Flutter / Analog Dial Gauge
+What needed:
+- You will need flutter installed and working, of course.
+- Code will work fine for android, ios and chrome browsers.
 
-A new Flutter project.
+I would suggest you dive into the code by running it, to get a better understanding.
+Everything needed is inside one file.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+![image](https://user-images.githubusercontent.com/28624436/147443820-80573aaa-8fcd-4c8c-a7ce-f679e01bf75b.png)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+with ( var startFromAngle = 150); 
+![image](https://user-images.githubusercontent.com/28624436/147444509-06f6a887-1a44-4922-a844-445db3b3d633.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
